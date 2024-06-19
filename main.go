@@ -77,5 +77,3 @@ func main() {
 		fmt.Println(err)
 	}
 }
-
-// Access token: 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
